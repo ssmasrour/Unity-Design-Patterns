@@ -1,0 +1,1 @@
+In addition to observer, delegate, event, and action are some other C# built-in solutions that work alternatively in most cases
